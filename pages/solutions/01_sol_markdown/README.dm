@@ -23,7 +23,7 @@ Moje figurki BSD:
 - [x] Nakajima Atsushi
 - [ ] Edogawa Ranpo
 
-A to tajemniczy link, o którym wcale nic nie wiadomo gdzie on wiedzie.
+A oto tajemniczy link, o którym wcale nic nie wiadomo gdzie on wiedzie.
 [Google Colab](http://colab.research.google.com)
 
 No i kod Pythona, bo **WHY NOT**:
