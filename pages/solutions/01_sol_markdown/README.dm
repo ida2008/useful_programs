@@ -21,13 +21,14 @@ Moje figurki BSD:
 - [x] Dazai Osamu
 - [x] Akutagawa Ryuunosuke
 - [x] Nakajima Atsushi
-- [] Edogawa Ranpo
+- [ ] Edogawa Ranpo
 
 A to tajemniczy link, o którym wcale nic nie wiadomo gdzie on wiedzie.
 [Google Colab](http://colab.research.google.com)
 
 No i kod Pythona, bo **WHY NOT**:
-```# Przykład: Analiza temperatury
+```python
+# Przykład: Analiza temperatury
 # Wczytanie danych
 temperatury = [15.2, 18.5, 17.8, 19.3, 16.7]
 dni = ["Pon", "Wto", "Śro", "Czw", "Ptk"]
