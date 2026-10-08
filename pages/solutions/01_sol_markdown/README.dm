@@ -5,10 +5,10 @@
 Ten program to **bardzo** ciekawa rzecz. Tu można robić *dużo* ciekawych rzeczy. Mogę, np. zrobić sobie listę moich ~~nie~~ulubionych owoców.
 
 OWOCE:
--jabłka
--truskawki
--nektarynki
--śliwki
+- jabłka
+- truskawki
+- nektarynki
+- śliwki
 
 Albo także listę gier w jakie gram:
 1. Genshin Impact
