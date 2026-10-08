@@ -52,3 +52,6 @@ Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym:
 KOLEJNY wzór matematyczny, który nawet nie wiem co znaczy:
 
 $$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$
+
+Piękny wykres nieprawdaż?
+![Wykres zależności y od x](wykres.png)
