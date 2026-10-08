@@ -51,5 +51,23 @@ Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym:
 
 KOLEJNY wzór matematyczny, który nawet nie wiem co znaczy:
 $$
-s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}
+s
+=
+1
+n
+−
+1
+∑
+i
+=
+1
+n
+(
+x
+i
+−
+x
+¯
+)
+2
 $$
