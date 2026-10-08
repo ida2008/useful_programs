@@ -51,5 +51,5 @@ Wzór matematyczny twierdzenia pitagorasa, by poczuć się mądrym: $a^2 + b^2 =
 
 KOLEJNY wzór, który nawet nie wiem co znaczy.
 $$
-s^2 = \frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2
+\s^2 = \frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2
 $$
