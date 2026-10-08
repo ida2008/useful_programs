@@ -47,9 +47,22 @@ print(f"Temperatura maksymalna: {max_temp}°C")
 print(f"Temperatura minimalna: {min_temp}°C")
 ```
 
-Wzór matematyczny twierdzenia pitagorasa, by poczuć się mądrym: $a^2 + b^2 = c^2$
+## Wzór matematyczny z sumą
 
-KOLEJNY wzór, który nawet nie wiem co znaczy.
+Przykład bardziej zaawansowanego wzoru statystycznego:
+
 $$
-\s2=1n−1∑i=1n(xi−x¯)2
+s^2 = \frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2
+$$
+
+Gdzie:
+- $x_i$ to kolejne wartości danych,
+- $\bar{x}$ to średnia arytmetyczna,
+- $n$ to liczba obserwacji,
+- $s^2$ to wariancja próbkowa.
+
+Odchylenie standardowe jest wtedy równe:
+
+$$
+s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}
 $$
