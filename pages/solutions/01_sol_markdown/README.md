@@ -50,4 +50,5 @@ print(f"Temperatura minimalna: {min_temp}°C")
 Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym: $a^2 + b^2 = c^2$
 
 KOLEJNY wzór matematyczny, który nawet nie wiem co znaczy:
+
 $$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$
