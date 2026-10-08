@@ -51,23 +51,5 @@ Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym:
 
 KOLEJNY wzór matematyczny, który nawet nie wiem co znaczy:
 $$
-s
-=
-1
-n
-−
-1
-∑
-i
-=
-1
-n
-(
-x
-i
-−
-x
-¯
-)
-2
+\s=1n−1∑i=1n(xi−x¯)2
 $$
