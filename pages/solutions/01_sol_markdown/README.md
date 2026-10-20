@@ -2,7 +2,15 @@
 
 ## Piękna podsekcja
 
+To jest pierwsza podsekcja z krótkim opisem. Dodano ją, aby dokument miał sensowny wstęp i lepiej prezentował strukturę treści.
+
 ### Druga cudna podsekcja
+
+| Nazwa | Wartość | Uwagi |
+| --- | --- | --- |
+| A | 10 | przykładowa wartość |
+| B | 20 | inna wartość |
+| C | 30 | kolejna wartość |
 
 Ten program to **bardzo** ciekawa rzecz. Tu można robić *dużo* ciekawych rzeczy. Mogę, np. zrobić sobie listę moich ~~nie~~ ulubionych owoców.
 
@@ -47,11 +55,25 @@ print(f"Temperatura maksymalna: {max_temp}°C")
 print(f"Temperatura minimalna: {min_temp}°C")
 ```
 
-Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym: $a^2 + b^2 = c^2$
+Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym: $a^2 + b^2 = c^2$ oraz $v = \frac{s}{t}$, a także $P = \pi r^2$.
 
 KOLEJNY wzór matematyczny, który nawet nie wiem co znaczy:
 
-$$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$
+$$
+s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}
+$$
+
+Dodatkowy wzór z analizy:
+
+$$
+\int_0^1 x^2\,dx = \frac{1}{3}
+$$
+
+Jeszcze jeden wzór geometryczny:
+
+$$
+A = \pi r^2
+$$
 
 ### Piękny wykres nieprawdaż?
 ![Wykres zależności y od x](wykres.png)
