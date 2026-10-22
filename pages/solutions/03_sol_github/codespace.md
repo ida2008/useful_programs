@@ -1,3 +1,5 @@
+##Lista postaci z Anime/mangi Bungou Stray dogs:##
+
 1. Dazai Osamu
 2. Nakahara Chuuya
 3. Akutagawa Ryuunosuke
