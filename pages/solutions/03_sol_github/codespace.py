@@ -1,3 +1,4 @@
+```python
 import turtle
 import random
 
@@ -12,3 +13,4 @@ for x in range(500):
     turtle.rt(91)
 
 turtle.exitonclick()
+```
