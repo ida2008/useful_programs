@@ -55,9 +55,9 @@ print(f"Temperatura maksymalna: {max_temp}°C")
 print(f"Temperatura minimalna: {min_temp}°C")
 ```
 
-Wzór matematyczny twierdzenia pitagorasa, tylko po to, by poczuć się mądrym: $a^2 + b^2 = c^2$ oraz $v = \frac{s}{t}$, a także $P = \pi r^2$.
+Wzory matematyczne są tutaj, by pokazać poprawne formatowanie: $a^2 + b^2 = c^2$, $v = \frac{s}{t}$, $P = \pi r^2$, $E = mc^2$, $F = ma$.
 
-KOLEJNY wzór matematyczny, który nawet nie wiem co znaczy:
+Kolejny wzór matematyczny, który nawet nie wiem co znaczy:
 
 $$
 s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}
