@@ -184,7 +184,13 @@ def make_range_plot():
         ax.scatter(angles[peak], ranges[model][peak], color=color, zorder=3)
     ax.axvline(45, color=INK, linestyle=":", linewidth=1, label="45° w próżni")
     ax.axvline(ALPHA_DEG, color=ORANGE, linestyle="--", linewidth=1, label=rf"$\alpha={ALPHA_DEG:g}^\circ$")
-    ax.set(xlabel="Kąt wyrzutu α [°]", ylabel="Zasięg R [m]", title="Zasięg w zależności od kąta wyrzutu")
+  ax.axvline(
+    ALPHA_DEG,
+    color=ORANGE,
+    linestyle="--",
+    linewidth=1,
+    label=rf"$\alpha={ALPHA_DEG:g}^\circ$",
+)
     ax.legend()
     save(fig, "zasieg_kat")
 
