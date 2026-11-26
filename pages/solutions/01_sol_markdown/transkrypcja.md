@@ -30,7 +30,7 @@ E=\frac{\hbar^2\pi^2}{2m}\left(\frac{n_x^2}{L_x^2}+\frac{n_y^2}{L_y^2}+\frac{n_z
 $$
 
 - poziomy energetyczne są zdegenerowane
-- sferyczna kropka kwantowa ⇒ rozszerzenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej)
+- sferyczna kropka kwantowa ⇒ rozdzielamy funkcję falową $\Psi$ na część radialną i kątową (podobnie jak w zagadnieniu atomu wodoru w mechanice kwantowej)
   ⇒ rozwiązania – funkcje Bessela typu $J_{l+1/2}$
 
 ### 12. Porównać właściwości heterostruktur, drutów i kropek kwantowych.
