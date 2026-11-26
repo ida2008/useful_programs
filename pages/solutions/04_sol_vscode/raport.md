@@ -89,11 +89,15 @@ $$
 Moc siły oporu jest równa iloczynowi skalarnemu siły i prędkości:
 
 $$
-\frac{dE}{dt}=\vec F_d\cdot\vec v
+\frac{dE}{dt}
+=
+\vec F_d\cdot\vec v
 =
 \begin{cases}
--bv^2, & \mathrm{dla\ oporu\ liniowego},\\
--\frac12\rho C_dA v^3, & \mathrm{dla\ oporu\ kwadratowego}.
+-bv^2,
+& \text{dla oporu liniowego},\\[6pt]
+-\dfrac12\rho C_d A v^3,
+& \text{dla oporu kwadratowego}.
 \end{cases}
 $$
 
