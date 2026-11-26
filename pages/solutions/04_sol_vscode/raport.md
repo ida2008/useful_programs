@@ -130,7 +130,7 @@ Z ujemnym zasięgiem spotykamy się, ponieważ dla kąta $92^\circ$ składowa $v
 
 ## Wykresy i interpretacja
 
-![Trajektorie bez oporu oraz z oporem liniowym i kwadratowym](files/rzut_ukosny/tory (2).png)
+![Trajektorie bez oporu oraz z oporem liniowym i kwadratowym](files/rzut_ukosny/tory.png)
 
 *Rysunek 1. Porównanie trajektorii dla $v_0=36\,\mathrm{m/s}$ i $\alpha=92^\circ$.*
 
